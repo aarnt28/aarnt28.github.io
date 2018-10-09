@@ -4,7 +4,7 @@ we’re committed to serving you with the highest level of security and protecti
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Objective
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
