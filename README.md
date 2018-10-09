@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Turner Industries
 
-You can use the [editor on GitHub](https://github.com/aarnt28/aarnt28.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+we’re committed to serving you with the highest level of security and protection from cyber attacks!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
